@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [Projetos TripleTen](https://github.com/brunoatrindade/projetos_tripleten) → Projetos reais de análise de dados  
+- [Projetos TripleTen](https://github.com/brunoatrindade/tripleten_projects) → Projetos reais de análise de dados  
 - [Entorpecido](https://github.com/brunoatrindade/entorpecido) → Estudos e experimentos com Python  
 
 ---
