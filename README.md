@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**brunoatrindade/brunoatrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Olá, eu sou o Bruno Trindade  
 
 🎯 Analista de Dados | Estudante na [TripleTen Brasil](https://tripleten.com.br/)  
