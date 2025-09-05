@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno Trindade  
 
-🎯 Analista de Dados | Estudante na [TripleTen Brasil](https://tripleten.com.br/)  
+🎯 **Analista de Dados** | Estudante na [TripleTen Brasil](https://tripleten.com.br/)  
 ⚖️ Experiência prévia em Direito, onde desenvolvi uma **forte visão analítica, capacidade de interpretar grandes volumes de informação e transformar dados complexos em insights claros para a tomada de decisão** 
 🌍 Já morei em: Irlanda 🇮🇪 | Portugal 🇵🇹 | Brasil 🇧🇷  
 💻 Tecnologias: Python • SQL • Power BI • Tableau • GitHub  
@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- ✉️ E-mail: **seuemail@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/brunoatrindade)  
+- ✉️ E-mail: **brunotrindaderj@gmail.com**
