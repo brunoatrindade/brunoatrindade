@@ -35,7 +35,7 @@ Atualmente, aplico esses diferenciais em **projetos reais de análise explorató
 ### 📂 Projetos em destaque
 
 👉 [**Web Dashboard Interativo em Streamlit**](#)  
-Aplicação interativa para análise visual de dados com Python e Streamlit, incluindo gráficos de dispersão e histogramas.
+Aplicação interativa para análise visual de dados com Python e Streamlit, incluindo gráficos de dispersão e histogramas
 https://cars-ads-app-2.onrender.com
 
 👉 [**Projetos Analíticos em Jupyter Notebook e estudos com Python**](#)
@@ -43,7 +43,7 @@ Projetos reais de análise de dados realizados com a TripleTen Brasil
 https://github.com/brunoatrindade/tripleten_projects   
 
 👉 [**Análise de Vendas - Instacart Dataset**](#)  
-Exploração e visualização de dados de comportamento de compra, identificação de padrões e oportunidades de retenção de clientes.
+Exploração e visualização de dados de comportamento de compra, identificação de padrões e oportunidades de retenção de clientes
 
 ---
 
