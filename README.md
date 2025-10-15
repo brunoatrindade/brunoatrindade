@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Bruno Trindade  
 
 <h1 align="center">👋 Olá, eu sou o Bruno Trindade</h1>
 
@@ -52,7 +51,7 @@ Aplicação interativa para análise visual de dados com Python e Streamlit, inc
   <a href="https://www.linkedin.com/in/brunoatrindade" target="_blank">
     <img src="https://img.shields.io/badge/-Bruno%20Trindade-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:brunoatrindade@gmail.com">
+  <a href="mailto:brunotrindaderj@gmail.com">
     <img src="https://img.shields.io/badge/-brunoatrindade%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/brunoatrindade">
@@ -77,26 +76,6 @@ Aplicação interativa para análise visual de dados com Python e Streamlit, inc
 
 ---
 
-🎯 **Analista de Dados** | Estudante na [TripleTen Brasil](https://tripleten.com.br/)  
-⚖️ Experiência prévia em Direito com **forte visão analítica, capacidade de interpretar grandes volumes de informação e transformar dados complexos em insights claros para a tomada de decisão**
-  
-💻 Tecnologias: Python • SQL • Power BI • Tableau • GitHub  
-🌍 Já morei em: Irlanda 🇮🇪 | Portugal 🇵🇹 | Brasil 🇧🇷
----
-
 ## 🚀 Projetos em Destaque
 - [Projetos TripleTen](https://github.com/brunoatrindade/tripleten_projects) → Projetos reais de análise de dados  
 - [Entorpecido](https://github.com/brunoatrindade/entorpecido) → Estudos e experimentos com Python  
-
----
-
-## 📊 Estatísticas do GitHub
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoatrindade&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatrindade&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/brunoatrindade)  
-- ✉️ E-mail: **brunotrindaderj@gmail.com**
