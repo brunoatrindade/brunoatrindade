@@ -77,4 +77,52 @@ Exploração e visualização de dados de comportamento de compra, identificaç�
 
 ---
 
- 
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=brunoatrindade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Estatísticas do GitHub de Bruno Trindade" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatrindade&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Linguagens mais usadas por Bruno Trindade" 
+    height="180em"
+  />
+</p>
+
+---
+
+### 🔥 Streak de Contribuições
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=brunoatrindade&theme=tokyonight&hide_border=true" 
+    alt="Streak de contribuições do Bruno Trindade"
+  />
+</p>
+
+---
+
+### 🧠 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=brunoatrindade&theme=tokyonight&no-frame=true&margin-w=10&column=7" 
+    alt="Troféus de perfil do Bruno Trindade"
+  />
+</p>
+
+---
+
+ ⚡ Curiosidades  
+...  
+
+---  
+📊 Estatísticas do GitHub  
+🔥 Streak de Contribuições  
+🏆 Trophies  
+
