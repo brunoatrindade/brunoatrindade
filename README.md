@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Analista de Dados | Python • SQL • Power BI • Tableau | Desenvolvedor Web</strong><br>
-  Dashboards & KPIs | Experiência Internacional (Irlanda 🇮🇪 e Portugal 🇵🇹)
+
 </p>
 
 ---
