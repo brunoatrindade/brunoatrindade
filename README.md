@@ -28,7 +28,6 @@ Atualmente, aplico esses diferenciais em **projetos reais de análise explorató
 - 📉 **Excel Avançado**
 - 💡 **Storytelling com Dados**
 - 💻 **Desenvolvimento Web**
-- 🔄 **Metodologias Ágeis (Scrum, Kanban)**
 
 ---
 
@@ -75,24 +74,5 @@ Exploração e visualização de dados de comportamento de compra, identificaç�
   <em>"Transformando dados em decisões e insights em resultados."</em>
 </p>
 
----
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=brunoatrindade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Estatísticas do GitHub de Bruno Trindade" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatrindade&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Linguagens mais usadas por Bruno Trindade" 
-    height="180em"
-  />
-</p>
-
----
 
