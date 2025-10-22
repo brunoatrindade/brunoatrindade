@@ -10,8 +10,7 @@
 
 ### 🚀 Sobre mim
 
-Sou **Analista de Dados** em transição planejada de carreira, com experiência prática em **Python**, **SQL**, **Power BI**, **Tableau** e **Estatística Aplicada** pela **TripleTen Brasil**.  
-Graduado em **Direito** e com formação técnica em **Dados**, trago uma combinação de **análise estratégica**, **métricas de desempenho** e **visão de negócios**, atuando para otimizar processos e apoiar decisões.
+Sou **Analista de Dados** em transição planejada de carreira, com experiência prática em **Python**, **SQL**, **Power BI**, **Tableau** e **Estatística Aplicada** pela **TripleTen Brasil**. Graduado em **Direito** e com formação técnica em **Dados**, trago uma combinação de **análise estratégica**, **métricas de desempenho** e **visão de negócios**, atuando para otimizar processos e apoiar decisões.
 
 Com vivência internacional em ambientes multiculturais, desenvolvi forte **capacidade de adaptação, resolução de problemas e comunicação assertiva**, contribuindo para o alinhamento de equipes, gestão de informações e entregas orientadas a resultados.
 
