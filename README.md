@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Trindade</h1>
 
 <p align="center">
-  <strong>Analista de Dados | Python • SQL • Power BI • Tableau | Desenvolvedor Web</strong><br>
+  <strong>Analista de Dados | Python • SQL • Power BI • Tableau </strong><br>
 
 </p>
 
