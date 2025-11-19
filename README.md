@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Bruno Trindade  
-### Analista de Dados | Background Jurídico | Visão de Negócio & Comunicação Analítica
+### Analista de Dados | Background Jurídico | Visão de Negócio | Comunicação Analítica
 
 Sou um profissional em transição planejada de carreira da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma clara e objetiva.
 
@@ -62,6 +62,8 @@ Atuar como **Analista de Dados**, contribuindo para:
 ## 📬 Vamos conversar?
 Se você busca um analista com forte pensamento crítico, visão de negócio de dono e comunicação estratégica, ficarei feliz em conversar.
 
+** <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/70739ce8-1702-4fbf-a95f-7c92e9673293" /> +55 21 98536-9289
+
 **📧 brunotrindaderj@gmail.com**  
 **🔗 LinkedIn: https://www.linkedin.com/in/brunoatrindade**
 
@@ -69,12 +71,5 @@ Se você busca um analista com forte pensamento crítico, visão de negócio de 
 
 ### Obrigado por visitar meu GitHub 👇  
 > *Role para baixo e explore meus projetos, cada um com análises detalhadas, código limpo e conclusões orientadas ao negócio.*
-
----
-
-<p align="center">
-  <em>"Transformando dados em decisões e insights em resultados."</em>
-</p>
-
 
 
