@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Trindade  
 ### Analista de Dados | Background Jurídico | Visão de Negócio & Comunicação Analítica
 
-Sou um profissional em transição da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma clara e objetiva.
+Sou um profissional em transição planejada de carreira da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma clara e objetiva.
 
 Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e recomendações estratégicas orientadas ao negócio.
 
