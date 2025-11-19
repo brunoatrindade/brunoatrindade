@@ -1,71 +1,74 @@
+# 👋 Olá, eu sou o Bruno Trindade  
+### Analista de Dados | Background Jurídico | Visão de Negócio & Comunicação Analítica
 
-<h1 align="center">👋 Olá, eu sou o Bruno Trindade</h1>
+Sou um profissional em transição da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma clara e objetiva.
 
-<p align="center">
-  <strong>Analista de Dados | Python • SQL • Power BI • Tableau </strong><br>
-
-</p>
-
----
-
-### 🚀 Sobre mim
-
-Sou **Analista de Dados** em transição planejada de carreira, com experiência prática em **Python**, **SQL**, **Power BI**, **Tableau** e **Estatística Aplicada** pela **TripleTen Brasil**. Graduado em **Direito** e com formação técnica em **Dados**, trago uma combinação de **análise estratégica**, **métricas de desempenho** e **visão de negócios**, atuando para otimizar processos e apoiar decisões.
-
-Com vivência internacional em ambientes multiculturais, desenvolvi forte **capacidade de adaptação, resolução de problemas e comunicação assertiva**, contribuindo para o alinhamento de equipes, gestão de informações e entregas orientadas a resultados.
-
-Atualmente, aplico esses diferenciais em **projetos reais de análise exploratória, visualização e geração de insights de negócio**, utilizando **metodologias ágeis**.
+Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e recomendações estratégicas orientadas ao negócio.
 
 ---
 
-### 🧠 Competências principais
+## 🚀 O que me diferencia como Analista de Dados
+Minha experiência jurídica me deu habilidades que agregam diretamente valor ao trabalho analítico:
 
-- 📊 **Análise de Dados e KPIs**
-- 🐍 **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-- 🗃️ **SQL (Consultas, Junções, Otimização)**
-- 📈 **Power BI e Tableau**
-- 📉 **Excel Avançado**
-- 💡 **Storytelling com Dados**
-- 💻 **Desenvolvimento Web**
+- **Interpretação precisa de grandes volumes de informação**  
+- **Tomada de decisão baseada em evidências e análise crítica**  
+- **Visão estratégica do mercado, riscos e impactos operacionais**  
+- **Comunicação clara e objetiva em relatórios e apresentações**  
+- **Raciocínio estruturado e foco em resultados**  
+- **Capacidade de traduzir complexidade em insights acionáveis**
 
----
-
-### 📂 Projetos em destaque
-
-👉 [**Web Dashboard Interativo em Streamlit**](#)  
-Aplicação interativa para análise visual de dados com Python e Streamlit, incluindo gráficos de dispersão e histogramas
-https://cars-ads-app-2.onrender.com
-
-👉 [**Projetos Analíticos em Jupyter Notebook e estudos com Python**](#)
-Projetos reais de análise de dados realizados com a TripleTen Brasil
-https://github.com/brunoatrindade/tripleten_projects   
-
-👉 [**Análise de Vendas - Instacart Dataset**](#)  
-Exploração e visualização de dados de comportamento de compra, identificação de padrões e oportunidades de retenção de clientes
+Essas competências reforçam meu trabalho em análises de comportamento do usuário, funis, coortes, métricas de retenção, unit economics e estudos orientados ao crescimento de produtos.
 
 ---
 
-### 📫 Como me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brunoatrindade" target="_blank">
-    <img src="https://img.shields.io/badge/-Bruno%20Trindade-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/brunoatrindade">
-    <img src="https://img.shields.io/badge/-brunoatrindade-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 📚 O que estou estudando atualmente
+- **Análise de Dados — TripleTen Brasil** (Bootcamp)  
+- Python (pandas, NumPy, matplotlib), SQL, estatística aplicada e métricas de negócio  
+- Construção de dashboards, storytelling com dados e modelagem analítica  
+- Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas 
 
 ---
 
-### ⚡ Curiosidades
+## 📊 Projetos em Destaque
+Aqui você encontra projetos com foco em análise, estratégia e tomada de decisão:
 
-- 🌍 Morei e trabalhei na **Irlanda** e em **Portugal**
-- 🧩 Gosto de conectar dados, design e estratégia
-- 🎧 Apaixonado por **música eletrônica** e **indie rock**
-- 🏋️‍♀️ Atleta híbrido 
-- 🚀 Em busca de oportunidades como **Analista de Dados**, **BI** ou **Desenvolvedor Web**
-  
+- **🛒 Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor  
+- **🚕 Mobilidade Urbana (Zuber)** — Estudo preditivo e recomendações estratégicas para lançamento de produto  
+- **📈 Métricas de Retenção & Coortes** — Construção de DataFrames, análise do ciclo de vida e interpretação de padrões  
+- **📉 Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil  
+
+*(Atualizo este portfólio semanalmente com novos projetos.)*
+
+---
+
+## 🧠 Minha visão como profissional de dados
+"A análise de dados é a evolução natural da parte mais valiosa do meu trabalho jurídico:  
+**investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões.**  
+Agora faço isso com ferramentas mais poderosas — e com impacto direto no negócio."
+
+---
+
+## 💼 Objetivo profissional
+Atuar como **Analista de Dados**, contribuindo para:
+
+- Tomada de decisão baseada em dados  
+- Crescimento de produtos digitais  
+- Otimização de processos  
+- Entendimento do comportamento do usuário  
+- Criação de métricas estratégicas para áreas de negócio  
+
+---
+
+## 📬 Vamos conversar?
+Se você busca um analista com forte pensamento crítico, visão de negócio de dono e comunicação estratégica, ficarei feliz em conversar.
+
+**📧 brunotrindaderj@gmail.com**  
+**🔗 LinkedIn: https://www.linkedin.com/in/brunoatrindade**
+
+---
+
+### Obrigado por visitar meu GitHub 👇  
+> *Role para baixo e explore meus projetos, cada um com análises detalhadas, código limpo e conclusões orientadas ao negócio.*
 
 ---
 
