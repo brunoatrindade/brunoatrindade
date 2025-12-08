@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Bruno Trindade  
-### Analista de Dados | Background Jurídico | Python •  Excel •  SQL •  Power BI | Visão de Negócio
+### Analista de Dados | Python •  Excel •  SQL •  Power BI | Background Jurídico | Visão de Negócio
 
 Sou um profissional em transição planejada da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica e administrativa que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
 
 Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
 
-Meus projetos de portfólio são estruturados como análises usadas no dia a dia das empresas. Eu parto de um problema real, avalio seu impacto no negócio, defino hipóteses, explico a metodologia e apresento visualizações que destacam apenas o que realmente importa para a tomada de decisão
+Meus projetos de portfólio são estruturados como análises usadas no dia a dia das empresas. Eu parto de um problema real, avalio seu impacto no negócio, defino hipóteses, explico a metodologia e apresento visualizações que destacam apenas o que realmente importa para a tomada de decisão.
 
 ---
 
