@@ -9,7 +9,7 @@ Meus projetos de portfólio são estruturados como análises usadas no dia a dia
 
 ---
 
-## 🚀 O que me diferencia como Analista de Dados
+## O que me diferencia como Analista de Dados?
 Minha experiência jurídica me deu habilidades que agregam diretamente valor ao trabalho analítico:
 
 - **Interpretação precisa de grandes volumes de informação**  
@@ -23,7 +23,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ---
 
-## 📚 O que estou estudando atualmente
+## O que estou estudando atualmente?
 - **Análise de Dados — TripleTen Brasil** (Bootcamp)  
 - Python (pandas, NumPy, matplotlib), SQL, estatística aplicada e métricas de negócio  
 - Construção de dashboards, storytelling com dados e modelagem analítica  
@@ -31,7 +31,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ---
 
-## 📊 Projetos em Destaque
+## Projetos em Destaque
 Aqui você encontra projetos com foco em análise, estratégia e tomada de decisão:
 
 - **🛒 Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor  
@@ -43,14 +43,12 @@ Aqui você encontra projetos com foco em análise, estratégia e tomada de decis
 
 ---
 
-## 🧠 Minha visão como profissional de dados
-"A análise de dados é a evolução natural da parte mais valiosa do meu trabalho jurídico:  
-**investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões.**  
-Agora faço isso com ferramentas mais poderosas — e com impacto direto no negócio."
+## Minha visão como profissional de dados
+"A análise de dados é a evolução natural da parte mais valiosa do meu trabalho jurídico: **investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões.** Agora faço isso com ferramentas mais poderosas e com impacto direto no negócio."
 
 ---
 
-## 💼 Objetivo profissional
+## Objetivo profissional
 Atuar como **Analista de Dados**, contribuindo para:
 
 - Tomada de decisão baseada em dados  
@@ -61,7 +59,7 @@ Atuar como **Analista de Dados**, contribuindo para:
 
 ---
 
-## 📬 Vamos conversar?
+## Vamos conversar?
 Se você busca um analista com forte pensamento crítico, visão de negócio de dono e comunicação estratégica, ficarei feliz em conversar.
 
 **📞 +55 21 98536-9289**
