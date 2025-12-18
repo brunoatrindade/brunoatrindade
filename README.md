@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Trindade  
+# Olá, eu sou o Bruno Trindade 
 ### Analista de Dados | Python •  Excel •  SQL •  Power BI | Background Jurídico | Visão de Negócio
 
 Sou um profissional em transição planejada da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica e administrativa que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
@@ -34,10 +34,10 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 ## Projetos em Destaque
 Aqui você encontra projetos com foco em análise, estratégia e tomada de decisão:
 
-- **🛒 Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor  
-- **🚕 Mobilidade Urbana** — Estudo preditivo e recomendações estratégicas para lançamento de produto  
-- **📈 Métricas de Retenção & Coortes** — Construção de DataFrames, análise do ciclo de vida e interpretação de padrões  
-- **📉 Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil  
+- **Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor  
+- **Mobilidade Urbana** — Estudo preditivo e recomendações estratégicas para lançamento de aplicativo no mercado de mobilidade   
+- **Métricas de Retenção & Coortes** — Construção de DataFrames, análise do ciclo de vida e interpretação de padrões  
+- **Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil  
 
 *(Atualizo este portfólio semanalmente com novos projetos.)*
 
