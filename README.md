@@ -1,7 +1,7 @@
 # Olá, eu sou o Bruno Trindade 
 ### Analista de Dados | Python •  Excel •  SQL •  Power BI | Background Jurídico | Visão de Negócio
 
-Sou um profissional em transição planejada da advocacia para a Análise de Dados, trazendo comigo anos de experiência jurídica e administrativa que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
+Sou um profissional em transição planejada do Direito para a Análise de Dados, trazendo comigo anos de experiência jurídica e de gestão que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
 
 Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
 
@@ -10,7 +10,7 @@ Meus projetos de portfólio são estruturados como análises usadas no dia a dia
 ---
 
 ## O que me diferencia como Analista de Dados?
-Minha experiência jurídica me deu habilidades que agregam diretamente valor ao trabalho analítico:
+Minha experiência jurídica e em gestão me deu habilidades que agregam diretamente valor ao trabalho analítico.
 
 - **Interpretação precisa de grandes volumes de informação**  
 - **Tomada de decisão baseada em evidências e análise crítica**  
@@ -24,7 +24,9 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 ---
 
 ## O que estou estudando atualmente?
-- **Análise de Dados — TripleTen Brasil** (Bootcamp)  
+- **Ciência da Computação - Universidade Federal Fluminense (UFF)** (graduação, 2026/2028)
+
+- **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026)  
 - Python (pandas, NumPy, matplotlib), SQL, estatística aplicada e métricas de negócio  
 - Construção de dashboards, storytelling com dados e modelagem analítica  
 - Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas 
