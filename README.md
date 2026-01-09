@@ -24,7 +24,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 ---
 
 ## O que estou estudando atualmente?
-- **Ciência da Computação - Universidade Federal Fluminense (UFF)** (graduação, 2026/2028)
+- **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028)
 
 - **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026)  
 - Python (pandas, NumPy, matplotlib), SQL, estatística aplicada e métricas de negócio  
