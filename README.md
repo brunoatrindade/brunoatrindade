@@ -27,7 +27,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 - **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028)
 
 - **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026)  
-- Python (pandas, NumPy, matplotlib), SQL, estatística aplicada e métricas de negócio  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio  
 - Construção de dashboards, storytelling com dados e modelagem analítica  
 - Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas 
 
@@ -37,9 +37,10 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 Aqui você encontra projetos com foco em análise, estratégia e tomada de decisão:
 
 - **Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor  
-- **Mobilidade Urbana** — Estudo preditivo e recomendações estratégicas para lançamento de aplicativo no mercado de mobilidade   
+- **Mobilidade Urbana** — Estudo preditivo e recomendações estratégicas para lançamento de aplicativo no mercado de mobilidade urbana  
 - **Métricas de Retenção & Coortes** — Construção de DataFrames, análise do ciclo de vida e interpretação de padrões  
-- **Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil  
+- **Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil
+- **E-commerce alimentício** - Análise de comportamento do usuário com funis e experimento de teste A/A/B em uma startup alimentícia
 
 *(Atualizo este portfólio semanalmente com novos projetos.)*
 
