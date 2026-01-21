@@ -41,7 +41,7 @@ Aqui você encontra projetos com foco em análise, estratégia e tomada de decis
 - **Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil.
 - **E-commerce alimentício** — Análise de comportamento do usuário com funis e experimento de teste A/A/B em uma startup alimentícia.
 - **Análise de Negócio** — Análise de negócios com foco na otimização de índices CLV, CAC e ROI usando dados de marketing e transacionais.
-- **Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor. Criação de app para venda de carros usados usando Streamlit.
+- **Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor. Criação de app com Streamlit para venda de carros usados.
 
 *(Atualizo este portfólio semanalmente com novos projetos.)*
 
