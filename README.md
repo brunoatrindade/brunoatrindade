@@ -10,7 +10,7 @@ Meus projetos de portfólio são estruturados como análises usadas no dia a dia
 ---
 
 ## O que me diferencia como Analista de Dados?
-Minha experiência jurídica e em gestão me deu habilidades que agregam diretamente valor ao trabalho analítico.
+Minha experiência jurídica e em gestão me deu habilidades que agregam diretamente valor ao trabalho analítico. Para consolidar essa evolução profissional, estou em formação em Análise de Dados pela TripleTen Brasil e iniciei a graduação em Ciência da Computação na Universidade Federal Fluminense (UFF), aprofundando fundamentos técnicos, estatísticos e computacionais que sustentam minha atuação prática em dados.
 
 - **Interpretação precisa de grandes volumes de informação**  
 - **Tomada de decisão baseada em evidências e análise crítica**  
