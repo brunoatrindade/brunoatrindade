@@ -24,31 +24,31 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 ---
 
 ## O que estou estudando atualmente?
-- **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028)
+- **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028).
 
-- **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026)  
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio  
-- Construção de dashboards, storytelling com dados e modelagem analítica  
-- Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas 
+- **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026).  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio, Tableau.  
+- Construção de dashboards, storytelling com dados e modelagem analítica.  
+- Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas.
 
 ---
 
 ## Projetos em Destaque
-Aqui você encontra projetos com foco em análise, estratégia e tomada de decisão:
+Aqui no meu portfólio você encontra projetos com foco em análise, estratégia e tomada de decisão:
  
-- **Mobilidade Urbana** — Estudo preditivo e recomendações estratégicas para lançamento de aplicativo no mercado de mobilidade urbana. 
+- **Mobilidade Urbana** — Estudo de análise preditiva, recomendações estratégicas para lançamento de app no mercado de mobilidade urbana. 
 - **Métricas de Retenção & Coortes** — Construção de DataFrames, análise do ciclo de vida e interpretação de padrões.  
 - **Funil de Conversão** — Cálculo de CTR, CR e taxas críticas para entender atritos no funil.
 - **E-commerce alimentício** — Análise de comportamento do usuário com funis e experimento de teste A/A/B em uma startup alimentícia.
 - **Análise de Negócio** — Análise de negócios com foco na otimização de índices CLV, CAC e ROI usando dados de marketing e transacionais.
-- **Instacart Analytics** — Limpeza, análise exploratória e insights de comportamento do consumidor. Criação de app com Streamlit para venda de carros usados.
+- **Análise Exploratória e criação de app com Streamlit** — Limpeza, análise exploratória e insights de comportamento do consumidor. Criação de app com Streamlit para venda de carros usados.
 
 *(Atualizo este portfólio semanalmente com novos projetos.)*
 
 ---
 
 ## Minha visão como profissional de dados
-"A análise de dados é a evolução natural da parte mais valiosa do meu trabalho jurídico: **investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões.** Agora faço isso com ferramentas mais poderosas e com impacto direto no negócio."
+"A análise de dados é a evolução natural da parte mais valiosa do meu trabalho jurídico e em gestão: **investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões.** Agora faço isso com ferramentas mais poderosas e com impacto direto no negócio."
 
 ---
 
