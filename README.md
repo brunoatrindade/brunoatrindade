@@ -73,7 +73,7 @@ Se você busca um analista com forte pensamento crítico, visão de negócio de 
 
 ---
 
-### Obrigado por visitar meu GitHub 👇  
+### Obrigado por visitar meu GitHub  
 > *Role para baixo e explore meus projetos, cada um com análises detalhadas, código limpo e conclusões orientadas ao negócio.*
 
 
