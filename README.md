@@ -27,9 +27,10 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 - **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028).
 
 - **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026).  
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio, Tableau.  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio.  
 - Construção de dashboards, storytelling com dados e modelagem analítica.  
 - Projetos reais envolvendo e-commerce, mobilidade urbana, produtos digitais, logística, entre outras áreas correlatas.
+- Tableau, Power BI.
 
 ---
 
