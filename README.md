@@ -1,7 +1,7 @@
 # Olá, eu sou o Bruno Trindade 
 ### Data Analyst | Business Intelligence | Machine Learning | Legal Background | Python | SQL | Tableau 
 
-Sou um profissional em transição planejada do Direito para a Análise de Dados, trazendo comigo anos de experiência jurídica e de gestão que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
+Sou um profissional em transição planejada do Direito para a Análise de Dados, trazendo comigo anos de experiência jurídica e de gestão de projetos que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
 
 Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
 
