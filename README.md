@@ -3,7 +3,7 @@
 
 Sou um profissional em transição planejada do Direito para a Análise de Dados, trazendo comigo anos de experiência jurídica e de gestão de projetos que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
 
-Hoje aplico esse mesmo rigor analítico no universo dos dados: limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
+Hoje aplico esse mesmo rigor analítico no universo dos dados com a limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
 
 Meus projetos de portfólio são estruturados como análises usadas no dia a dia das empresas. Eu parto de um problema real, avalio seu impacto no negócio, defino hipóteses, explico a metodologia e apresento visualizações que destacam apenas o que realmente importa para a tomada de decisão.
 
