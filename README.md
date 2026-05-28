@@ -11,7 +11,7 @@ Meus projetos de portfólio são estruturados como análises usadas no dia a dia
 ---
 
 ## O que me diferencia como Analista de Dados?
-Minha experiência jurídica e em gestão de projetos me deu habilidades que agregam diretamente valor ao trabalho analítico. Para consolidar essa evolução profissional, sou certificado em Análise de Dados pela TripleTen Brasil, e sou graduando em Tecnologia de Sistemas em Computação na Universidade Federal Fluminense (UFF), aprofundando fundamentos técnicos, estatísticos e tecnológicos que sustentam minha atuação prática em dados e na eloboração de projetos reais no mercado de trabalho.
+Minha experiência jurídica e em gestão de projetos me deu habilidades que agregam diretamente valor ao trabalho analítico. Para consolidar essa evolução profissional, sou certificado em Análise de Dados pela TripleTen Brasil, e sou graduando em Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF), aprofundando fundamentos técnicos, estatísticos e tecnológicos que sustentam minha atuação prática em dados e na eloboração de projetos reais no mercado de trabalho.
 
 - **Interpretação precisa de grandes volumes de informação**  
 - **Tomada de decisão baseada em evidências e análise crítica**  
@@ -25,7 +25,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 ---
 
 ## O que estou estudando atualmente?
-- **Ciência da Computação — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028).
+- **Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF)** (graduação, 2026/2028).
 
 - **Análise de Dados — TripleTen Brasil** (*bootcamp*, 2025/2026).  
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, estatística aplicada e métricas de negócio.  
