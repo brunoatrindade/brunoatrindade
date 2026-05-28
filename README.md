@@ -2,7 +2,7 @@
 # Olá, eu sou o Bruno Trindade 
 ### Data Analyst | Business Intelligence | Legal Background | ETL | SQL | Python | Power BI | Tableau 
 
-Sou um profissional em transição planejada do Direito para a Análise de Dados, trazendo comigo anos de experiência jurídica e de gestão de projetos que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
+Sou um profissional em transição planejada do Direito para Data Analytics, trazendo comigo anos de experiência jurídica e de gestão de projetos que fortaleceram minha capacidade de interpretar cenários complexos, estruturar raciocínios lógicos e comunicar insights de forma analítica e objetiva.
 
 Hoje aplico esse mesmo rigor analítico no universo dos dados com a limpeza, exploração, construção de métricas, visualizações e as recomendações estratégicas orientadas ao negócio.
 
@@ -11,7 +11,7 @@ Meus projetos de portfólio são estruturados como análises usadas no dia a dia
 ---
 
 ## O que me diferencia como Analista de Dados?
-Minha experiência jurídica e em gestão de projetos me deu habilidades que agregam diretamente valor ao trabalho analítico. Para consolidar essa evolução profissional, sou certificado em Análise de Dados pela TripleTen Brasil, e sou graduando em Ciência da Computação na Universidade Federal Fluminense (UFF), aprofundando fundamentos técnicos, estatísticos e tecnológicos que sustentam minha atuação prática em dados e na eloboração de projetos reais no mercado de trabalho.
+Minha experiência jurídica e em gestão de projetos me deu habilidades que agregam diretamente valor ao trabalho analítico. Para consolidar essa evolução profissional, sou certificado em Análise de Dados pela TripleTen Brasil, e sou graduando em Tecnologia de Sistemas em Computação na Universidade Federal Fluminense (UFF), aprofundando fundamentos técnicos, estatísticos e tecnológicos que sustentam minha atuação prática em dados e na eloboração de projetos reais no mercado de trabalho.
 
 - **Interpretação precisa de grandes volumes de informação**  
 - **Tomada de decisão baseada em evidências e análise crítica**  
