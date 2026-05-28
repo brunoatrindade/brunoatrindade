@@ -48,7 +48,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programação & Análise
+### Programação & Análise
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -60,21 +60,21 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🗄️ Banco de Dados & ETL
+### Banco de Dados & ETL
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F61?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-### 📊 BI & Visualização
+### BI & Visualização
 
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 📐 Estatística & Negócio
+### Estatística & Negócio
 
 <p>
   <img src="https://img.shields.io/badge/Estatística_Aplicada-00897B?style=for-the-badge&logo=r&logoColor=white"/>
@@ -83,7 +83,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
   <img src="https://img.shields.io/badge/Unit_Economics_(CLV·CAC·ROI)-16A34A?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-### 🔧 Ferramentas & Ambiente
+### Ferramentas & Ambiente
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -93,7 +93,7 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 > 💡 *Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
 > 🔄 *Portfólio atualizado semanalmente com novos projetos.*
@@ -114,15 +114,6 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 🎓 **Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF) · 2026/2028  
 📊 **Análise de Dados** — TripleTen Brasil (Bootcamp) · 2025/2026  
 ⚖️ **Bacharelado em Direito** — Universidade Estácio de Sá
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoatrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatrindade&layout=compact&langs_count=7&theme=dark"/>
-</p>
 
 ---
 
