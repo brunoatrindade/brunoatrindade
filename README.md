@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Bruno Trindade 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst · Business Intelligence · ETL · SQL · Python · Power BI · Tableau</strong><br><br>
+  <strong>Data Analyst · Business Intelligence · Dashboards · Legal Background · ETL · SQL · Python · Power BI · Tableau</strong><br><br>
   Eu identifico onde o negócio perde eficiência e construo análises orientadas à decisão,
   com o rigor analítico de quem passou anos estruturando argumentos complexos.
 </p>
