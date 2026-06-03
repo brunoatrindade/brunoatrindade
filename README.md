@@ -95,8 +95,8 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ## Projetos em Destaque
 
-> 💡 *Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
-> 🔄 *Portfólio atualizado semanalmente com novos projetos.*
+ *Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
+ *Portfólio atualizado semanalmente com novos projetos.*
 
 | Categoria | Projeto | Stack |
 |---|---|---|
