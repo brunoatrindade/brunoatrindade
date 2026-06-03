@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Bruno Trindade 👋</h1>
+<h1 align="center">Olá, eu sou Bruno Trindade </h1>
 
 <p align="center">
   <strong>Data Analyst · Business Intelligence · Dashboards · Legal Background · ETL · SQL · Python · Power BI · Tableau</strong><br><br>
@@ -20,9 +20,9 @@
 
 ---
 
-## 👋 Sobre Mim
+## Sobre Mim
 
-> **Analista de Dados em transição planejada do Direito — aplicando raciocínio jurídico para gerar insights que orientam decisões de negócio.**
+> **Analista de Dados em transição planejada do Direito, aplicando raciocínio jurídico e analítico para gerar insights que orientam decisões de negócio.**
 
 Passei anos no Direito interpretando cenários complexos, estruturando argumentos lógicos e comunicando conclusões com clareza e precisão. Hoje aplico esse mesmo rigor no universo dos dados: limpeza, exploração, construção de métricas, visualizações e recomendações estratégicas orientadas ao negócio.
 
@@ -32,21 +32,21 @@ Para consolidar essa transição, sou certificado em **Análise de Dados pela Tr
 
 ---
 
-## 🎯 O que me diferencia como Analista de Dados?
+## O que me diferencia como Analista de Dados?
 
 | Diferencial | Como se traduz em dados |
 |---|---|
-| 🧠 **Raciocínio jurídico** | Estruturo hipóteses com rigor, antecipo objeções e apresento conclusões com precisão |
-| 📊 **Visão estratégica** | Conecto análises ao impacto real — CLV, CAC, ROI, funis, retenção e crescimento |
-| 🔎 **Atenção a detalhes** | Formação jurídica exige precisão que levo diretamente para a qualidade dos dados |
-| 🗣️ **Comunicação clara** | Traduzo complexidade em insights acionáveis para stakeholders não técnicos |
-| ⚙️ **Gestão de projetos** | Experiência real em estruturar entregas, prazos e prioridades com foco em resultado |
+| **Raciocínio jurídico** | Estruturo hipóteses com rigor, antecipo objeções e apresento conclusões com precisão |
+| **Visão estratégica** | Conecto análises ao impacto real — CLV, CAC, ROI, funis, retenção e crescimento |
+| **Atenção a detalhes** | Formação jurídica exige precisão que levo diretamente para a qualidade dos dados |
+| **Comunicação clara** | Traduzo complexidade em insights acionáveis para stakeholders não técnicos |
+| **Gestão de projetos** | Experiência real em estruturar entregas, prazos e prioridades com foco em resultado |
 
 Essas competências reforçam meu trabalho em análises de comportamento do usuário, funis de conversão, coortes, métricas de retenção, unit economics e estudos orientados ao crescimento de produtos digitais.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programação & Análise
 
@@ -95,29 +95,29 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ## Projetos em Destaque
 
- *Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
- *Portfólio atualizado semanalmente com novos projetos.*
+ -*Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
+ -*Portfólio atualizado semanalmente com novos projetos.*
 
 | Categoria | Projeto | Stack |
 |---|---|---|
-| 🚗 Análise Preditiva | **Mobilidade Urbana** — Estudo preditivo com recomendações estratégicas para lançamento de app | Python · Scikit-Learn · Seaborn |
-| 👥 Retenção & Coortes | **Métricas de Retenção** — Ciclo de vida do usuário, construção de DataFrames e interpretação de padrões | Python · Pandas · Matplotlib |
-| 📉 Funil de Conversão | **Funil de Conversão** — CTR, CR e análise de atritos em cada etapa do funil | Python · SQL · Plotly |
-| 🛒 E-commerce | **Startup Alimentícia** — Comportamento do usuário, funis e experimento A/A/B | Python · Pandas · Seaborn |
-| 💰 Análise de Negócio | **CLV · CAC · ROI** — Otimização de índices de negócio com dados de marketing e transacionais | Python · SQL · Power BI |
-| 🚘 EDA + App | **Venda de Carros Usados** — Análise exploratória, insights de consumidor e app interativo | Python · Pandas · Streamlit |
+| Análise Preditiva | **Mobilidade Urbana** — Estudo preditivo com recomendações estratégicas para lançamento de app | Python · Scikit-Learn · Seaborn |
+| Retenção & Coortes | **Métricas de Retenção** — Ciclo de vida do usuário, construção de DataFrames e interpretação de padrões | Python · Pandas · Matplotlib |
+| Funil de Conversão | **Funil de Conversão** — CTR, CR e análise de atritos em cada etapa do funil | Python · SQL · Plotly |
+| E-commerce | **Startup Alimentícia** — Comportamento do usuário, funis e experimento A/A/B | Python · Pandas · Seaborn |
+| Análise de Negócio | **CLV · CAC · ROI** — Otimização de índices de negócio com dados de marketing e transacionais | Python · SQL · Power BI |
+| EDA + App | **Venda de Carros Usados** — Análise exploratória, insights de consumidor e app interativo | Python · Pandas · Streamlit |
 
 ---
 
 ## Formação & Certificações
 
-🎓 **Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF) · 2026/2028  
-📊 **Análise de Dados** — TripleTen Brasil (Bootcamp) · 2025/2026  
-⚖️ **Bacharelado em Direito** — Universidade Estácio de Sá
+-**Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF) · 2026/2028  
+-**Análise de Dados** — TripleTen Brasil (Bootcamp) · 2025/2026  
+-**Bacharelado em Direito** — Universidade Estácio de Sá
 
 ---
 
-## 💬 Vamos conversar?
+## Vamos conversar?
 
 Se você busca um analista com forte pensamento crítico, visão de negócio e comunicação estratégica, ficarei feliz em conversar.
 
