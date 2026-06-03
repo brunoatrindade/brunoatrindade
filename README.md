@@ -95,8 +95,8 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ## Projetos em Destaque
 
- -*Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
- -*Portfólio atualizado semanalmente com novos projetos.*
+ - *Cada projeto segue a estrutura: problema de negócio → hipóteses → metodologia → insights acionáveis.*
+ - *Portfólio atualizado semanalmente com novos projetos.*
 
 | Categoria | Projeto | Stack |
 |---|---|---|
@@ -111,9 +111,9 @@ Essas competências reforçam meu trabalho em análises de comportamento do usu�
 
 ## Formação & Certificações
 
--**Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF) · 2026/2028  
--**Análise de Dados** — TripleTen Brasil (Bootcamp) · 2025/2026  
--**Bacharelado em Direito** — Universidade Estácio de Sá
+- **Tecnologia em Sistemas de Computação** — Universidade Federal Fluminense (UFF) · 2026/2028  
+- **Análise de Dados** — TripleTen Brasil (Bootcamp) · 2025/2026  
+- **Bacharelado em Direito** — Universidade Estácio de Sá
 
 ---
 
