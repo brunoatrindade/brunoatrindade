@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Bruno Trindade </h1>
+<h1 align="center"> Bruno Trindade </h1>
 
 <p align="center">
   <strong>Data Analyst · Business Intelligence · Legal Background · SQL · Python · Power BI · Tableau</strong><br><br>
