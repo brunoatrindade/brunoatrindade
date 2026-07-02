@@ -22,7 +22,7 @@
 
 ## Sobre Mim
 
-> **Analista de Dados em transição planejada do Direito, aplicando raciocínio jurídico e analítico para gerar insights que orientam decisões de negócio.**
+> **Analista de Dados, aplicando raciocínio analítico para gerar insights que orientam decisões de negócio.**
 
 Passei anos no Direito interpretando cenários complexos, estruturando argumentos lógicos e comunicando conclusões com clareza e precisão. Hoje aplico esse mesmo rigor no universo dos dados: limpeza, exploração, construção de métricas, visualizações e recomendações estratégicas orientadas ao negócio.
 
