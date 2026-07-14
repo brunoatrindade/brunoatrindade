@@ -127,7 +127,7 @@ Se você busca um analista com forte pensamento crítico, visão de negócio e c
 ---
 
 <p align="center">
-  <i>"A análise de dados é a evolução natural do meu trabalho jurídico: investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões. Agora faço isso com ferramentas mais poderosas e impacto direto no negócio."</i>
+  <i>"A análise de dados é a evolução natural da minha trajetória profissional: investigar padrões, validar hipóteses, estruturar conclusões e orientar decisões. Agora faço isso com ferramentas mais poderosas e impacto direto no negócio."</i>
 </p>
 
 
