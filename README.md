@@ -37,12 +37,12 @@ Para consolidar essa transição, sou certificado em **Análise de Dados pela Tr
 | Diferencial | Como se traduz em dados |
 |---|---|
 | **Raciocínio jurídico** | Estruturo hipóteses com rigor, antecipo objeções e apresento conclusões com precisão |
-| **Visão estratégica** | Conecto análises ao impacto real — CLV, CAC, ROI, funis, retenção e crescimento |
+| **Visão estratégica** | Conecto análises ao impacto real. CLV, CAC, ROI, funis, retenção e crescimento |
 | **Atenção a detalhes** | Formação jurídica exige precisão que levo diretamente para a qualidade dos dados |
 | **Comunicação clara** | Traduzo complexidade em insights acionáveis para stakeholders não técnicos |
 | **Gestão de projetos** | Experiência real em estruturar entregas, prazos e prioridades com foco em resultado |
 
-Essas competências reforçam meu trabalho em análises de comportamento do usuário, funis de conversão, coortes, métricas de retenção, unit economics e estudos orientados ao crescimento de produtos digitais.
+Essas competências reforçam meu trabalho em análises de comportamento do usuário, funis de conversão, coortes, métricas de retenção, unit economics e estudos orientados ao crescimento de produtos digitais, e-commerce, people analytics.
 
 ---
 
